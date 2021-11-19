@@ -1,3 +1,3 @@
 # Purpose
 
-## The Purpose of this project is to generate random messages
+## The purpose of this project is to generate random messages
